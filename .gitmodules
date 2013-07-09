@@ -1,0 +1,3 @@
+[submodule "external/IOCipher"]
+	path = external/IOCipher
+	url = https://github.com/guardianproject/IOCipher.git
